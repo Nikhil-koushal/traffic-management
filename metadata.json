@@ -1,0 +1,7 @@
+{
+  "name": "SmartFlow AI Traffic Management",
+  "description": "An AI-powered 4-way traffic signal junction system utilizing Gemini Vision for dynamic timing, emergency prioritization, and accident detection.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
